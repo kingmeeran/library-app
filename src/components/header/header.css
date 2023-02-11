@@ -1,0 +1,42 @@
+.center {
+  margin-left: 350px;
+  font-size: 30px;
+}
+
+.header_left {
+  width: 70px;
+  margin-left: 200px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.header_right {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 300px;
+  position: relative;
+  top: -38px;
+}
+
+#top {
+  width: 95%;
+  border-radius: 15px;
+  height: 70px;
+  background-color: rgb(169, 169, 231);
+  color: aliceblue;
+  margin: 10px;
+  margin-left: 28px;
+}
+
+.header {
+  margin-top: 10px;
+}
+
+button {
+  border-radius: 10px;
+  padding: 5px;
+  background-color: mediumorchid;
+  color: aliceblue;
+}
